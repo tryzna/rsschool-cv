@@ -4,10 +4,14 @@
 * __Phone:__ +7(927)027-25-21
 * __Email:__ michaeltrizna@gmail.com
 * __Telegram:__ @tryzna
-* __Discord:__ 
+* __Discord:__ tryzna (@tryzna)#2363
 * __GitHub:__ [tryzna](https://github.com/tryzna)
 ## About Me
-Something
+I recently completed a bachelor's degree in aircraft design and currently work in a design office, however I feel that this job is leading me to stagnation. Coding has become a lifesaver and I'm here to get better at it.
+__My strengths:__
+* Quick learner
+* Hardworking
+* Responsible
 ## Skills
 * HTML/CSS
 * JavaScript (Basic)
