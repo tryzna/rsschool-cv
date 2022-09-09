@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tryzna.github.io/rsschool-cv/
